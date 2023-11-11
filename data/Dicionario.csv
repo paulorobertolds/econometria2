@@ -1,0 +1,56 @@
+Variáveis,Siglas,Var_br,Sigra_Br
+"Population, total",SP.POP.TOTL,"População, total",POP
+Population growth (annual %),SP.POP.GROW,Crescimento populacional (% anual),CRES_POP
+Surface area (sq. km),AG.SRF.TOTL.K2,Área de superfície (km quadrados),AREA
+Population density (people per sq. km of land area),EN.POP.DNST,Densidade populacional (pessoas por km2 de área terrestre),DENS_POP
+Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,Rácio de pobreza nas linhas de pobreza nacionais (% da população),POBRE
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,"Taxa de pobreza de US$ 2,15 por dia (PPC 2017) (% da população)",TX_POBRE
+"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,"GNI, método Atlas (US$ corrente)",GNI
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,"GNI per capita, método Atlas (US$ corrente)",GNIPERCAP
+"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,GNI PPP ($ internacional atual),GIN_PPP
+"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,"GNI per capita, PPC (dólares internacionais correntes)",GIN_PPC
+Income share held by lowest 20%,SI.DST.FRST.20,Participação na renda detida pelos 20% mais pobres,PART_RENDA
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,"Esperança de vida ao nascer, total (anos)",ESP_VIDA
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,"Taxa de fertilidade, total (nascimentos por mulher)",TX_FERT_M
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Taxa de fertilidade adolescente (nascimentos por 1.000 mulheres de 15 a 19 anos),TX_FERT_AD
+"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,"Prevalência de contraceptivos, qualquer método (% de mulheres casadas com idades entre 15 e 49 anos)",CONTRACEP
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Partos assistidos por pessoal de saúde qualificado (% do total),PARTO_ASSIS
+"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,"Taxa de mortalidade, menores de 5 anos (por 1.000 nascidos vivos)",TX_MORT
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,"Prevalência de baixo peso, peso por idade (% de crianças menores de 5 anos)",PESO_CRIA
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,"Imunização, sarampo (% de crianças de 12 a 23 meses)",IMUNIZACAO
+"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,"Taxa de conclusão do ensino primário, total (% da faixa etária relevante)",TX_ENSI_P
+"School enrollment, primary (% gross)",SE.PRM.ENRR,"Matrícula escolar, primário (% bruto)",MAT_ESC_P
+"School enrollment, secondary (% gross)",SE.SEC.ENRR,"Matrícula escolar, ensino médio (% bruto)",MAT_ESC_EM
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,"Matrícula escolar, primária e secundária (bruto), índice de paridade de género (IPG)",IPG
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,"Prevalência de HIV, total (% da população com idades entre 15 e 49 anos)",HIV
+Forest area (sq. km),AG.LND.FRST.K2,Área florestal (km quadrados),AREA_FLOREST
+Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,Áreas protegidas terrestres e marinhas (% da área territorial total),AREA_PROTEG
+"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,"Captações anuais de água doce, total (% dos recursos internos)",AGUA_POTA
+Urban population growth (annual %),SP.URB.GROW,Crescimento da população urbana (% anual),CRES_POP_URB
+Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,Uso de energia (kg de equivalente de petróleo per capita),USO_ENERG
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,Emissões de CO2 (toneladas métricas per capita),CO2
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Consumo de energia elétrica (kWh per capita),CONS_EE
+GDP (current US$),NY.GDP.MKTP.CD,PIB (dólar corrente),PIB
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Crescimento do PIB (% anual),CRESC_PIB
+"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,"Inflação, deflator do PIB (% anual)",INFLACAO
+"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,"Agricultura, silvicultura e pesca, valor acrescentado (% do PIB)",AGRO
+"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,"Indústria (incluindo construção), valor acrescentado (% do PIB)",IND
+Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,Exportações de bens e serviços (% do PIB),EXPORT
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Importações de bens e serviços (% do PIB),IMPORT
+Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,Formação bruta de capital (% do PIB),FORM_BRUTA
+"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,"Receita, excluindo donativos (% do PIB)",RECEITA
+Time required to start a business (days),IC.REG.DURS,Tempo necessário para iniciar um negócio (dias),TEMP_INI_NEG
+Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,Crédito interno concedido pelo setor financeiro (% do PIB),CREDI_INT
+Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,Receita fiscal (% do PIB),RECEITA_FISC
+Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,Despesas militares (% do PIB),DESP_MILITAR
+Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,Assinaturas de celular móvel (por 100 pessoas),CEL_MOV
+High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,Exportações de alta tecnologia (% das exportações de manufaturados),EXPORT_TECN
+Statistical Capacity Score (Overall Average) (scale 0 - 100),IQ.SCI.OVRL,Pontuação de Capacidade Estatística (Média Geral) (escala 0 - 100),PONT_CAP_ESTAT
+Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,Comércio de mercadorias (% do PIB),COMERCIO
+Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,Índice de termos de troca líquidos de troca (2015 = 100),IND_TROCA
+"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,"Estoques da dívida externa, total (DOD, US$ corrente)",DIVIDA_EXT
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,"Serviço total da dívida (% das exportações de bens, serviços e rendimento primário)",SERV_DIVIDA
+Net migration,SM.POP.NETM,Migração líquida,MIGRA_LIQUID
+"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,Remessas pessoais recebidas (US$ correntes),REMESSA_PESSO
+"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,"Investimento estrangeiro direto, entradas líquidas (BdP, dólar corrente)",INVEST_ESTRANG
+Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,Assistência oficial líquida ao desenvolvimento e ajuda oficial recebida (dólares correntes),ASSISR_SOCIA
